@@ -1,0 +1,7 @@
+.venv/
+.venv_week7/
+venv/
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
